@@ -26,6 +26,9 @@
 ### 视频教程
 >抓包搜索2/cardlist
 
+视频教程链接：<https://v.douyin.com/iJffEopN/>
+
+root机请直接看抓包
 ## 2.代码部署
 
 ### 青龙面板

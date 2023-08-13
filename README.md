@@ -67,7 +67,7 @@
      00 00 00 * * ?
      ```
 
-### 华为云函数工作流 FunctionGraph
+### 华为云函数工作流 FunctionGraph（免费）（推荐）
 华为云主页链接：<https://www.huaweicloud.com/>
 
 华为云函数链接：<https://console.huaweicloud.com/functiongraph/>

@@ -4,6 +4,7 @@
 # @Time    : 2023/8/10 16:17
 # @Author  : raindrop
 # @Email   : 1580925557@qq.com
+# @GitHub   :https://github.com/raindrop-hb/wbchaohua
 # @File    : main.py
 
 import requests,json,config,push,time,re,random

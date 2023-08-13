@@ -22,7 +22,9 @@
 1. vmos（免root）
 2. httpcanary(抓包工具)
 3. 微博app
+   
 ### 视频教程
+>抓包搜索2/cardlist
 
 ## 2.代码部署
 

@@ -1,4 +1,4 @@
-## 微博超话自动签到
+# 微博超话自动签到
 >通过微博三个接口分别获取用户超话列表，用户信息和超话签到
 <p align="center">
     <a href="https://github.com/raindrop-hb"><img alt="Author" src="https://img.shields.io/badge/author-raindrop-blueviolet"/></a>
@@ -15,22 +15,53 @@
 
 如有其他好的建议请提交issues
 
-### 1.抓包
+## 1.抓包
 
-#### 工具
+### 工具
 
 1. vmos（免root）
 2. httpcanary(抓包工具)
 3. 微博app
 
-### 2.代码部署
+## 2.代码部署
 
-#### 青龙面板
+### 青龙面板
 
+***订阅方式***
+> 下面两种任选一种
+- 定时任务
+    - 脚本/命令
+     ```
+     ql repo https://github.com/raindrop-hb/zhihu.git
+     ```
+    - 定时规则（随便）
+     ```
+     00 00 01 01 ?
+     ```
+    - 运行，运行结束后删除多的定时任务
+- 订阅管理
+    - 链接
+     ```
+     https://github.com/raindrop-hb/wbchaohua.git
+     ```
+    - 定时规则（随便）
+     ```
+     00 00 01 01 ?
+     ```
+    - 自动添加任务取消
+    - 自动删除任务确定
 
-#### 华为云函数工作流 FunctionGraph
+### 华为云函数工作流 FunctionGraph
+华为云主页链接：<https://www.huaweicloud.com/>
+华为云函数链接：<https://console.huaweicloud.com/functiongraph/>
+- 创建函数
+- 创建空白函数
+- 函数类型:事件函数
+- 区域选离家近的
+- 运行时:python3.10
+- 创建函数
 
-
+## 3.配置修改
 
 
 

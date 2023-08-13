@@ -95,5 +95,6 @@
 ## 运行截图
 ![image](https://github.com/raindrop-hb/wbchaohua/assets/72308008/1162f58d-9403-46f4-996c-737a1eb489f6)
 
+![image](https://github.com/raindrop-hb/wbchaohua/assets/72308008/70655650-9e6b-4406-b9ed-8b8d00561279)
 
 
